@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Sclash
-description: A tense 2D plug-n-play samurai fighting game where one hit is enough to win!
+
+lsi: false
+safe: true
+source: main
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
